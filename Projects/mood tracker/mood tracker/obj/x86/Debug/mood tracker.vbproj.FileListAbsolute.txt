@@ -1,0 +1,12 @@
+C:\Users\zico\AppData\Local\Temporary Projects\mood tracker\bin\Debug\mood tracker.exe
+C:\Users\zico\AppData\Local\Temporary Projects\mood tracker\bin\Debug\mood tracker.pdb
+C:\Users\zico\AppData\Local\Temporary Projects\mood tracker\bin\Debug\mood tracker.xml
+C:\Users\zico\AppData\Local\Temporary Projects\mood tracker\obj\x86\Debug\mood_tracker.Form1.resources
+C:\Users\zico\AppData\Local\Temporary Projects\mood tracker\obj\x86\Debug\mood_tracker.Resources.resources
+C:\Users\zico\AppData\Local\Temporary Projects\mood tracker\obj\x86\Debug\mood tracker.vbproj.GenerateResource.Cache
+C:\Users\zico\AppData\Local\Temporary Projects\mood tracker\obj\x86\Debug\mood tracker.exe
+C:\Users\zico\AppData\Local\Temporary Projects\mood tracker\obj\x86\Debug\mood tracker.xml
+C:\Users\zico\AppData\Local\Temporary Projects\mood tracker\obj\x86\Debug\mood tracker.pdb
+C:\Users\zico\Learning-Visual-Basic\Projects\mood tracker\mood tracker\obj\x86\Debug\mood tracker.exe
+C:\Users\zico\Learning-Visual-Basic\Projects\mood tracker\mood tracker\obj\x86\Debug\mood tracker.xml
+C:\Users\zico\Learning-Visual-Basic\Projects\mood tracker\mood tracker\obj\x86\Debug\mood tracker.pdb
