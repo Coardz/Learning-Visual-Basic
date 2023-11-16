@@ -1,0 +1,19 @@
+C:\Users\zico\AppData\Local\Temporary Projects\order system\bin\Debug\order system.exe
+C:\Users\zico\AppData\Local\Temporary Projects\order system\bin\Debug\order system.pdb
+C:\Users\zico\AppData\Local\Temporary Projects\order system\bin\Debug\order system.xml
+C:\Users\zico\AppData\Local\Temporary Projects\order system\obj\x86\Debug\order_system.Form1.resources
+C:\Users\zico\AppData\Local\Temporary Projects\order system\obj\x86\Debug\order_system.Resources.resources
+C:\Users\zico\AppData\Local\Temporary Projects\order system\obj\x86\Debug\order system.vbproj.GenerateResource.Cache
+C:\Users\zico\AppData\Local\Temporary Projects\order system\obj\x86\Debug\order system.exe
+C:\Users\zico\AppData\Local\Temporary Projects\order system\obj\x86\Debug\order system.xml
+C:\Users\zico\AppData\Local\Temporary Projects\order system\obj\x86\Debug\order system.pdb
+C:\Users\zico\Learning-Visual-Basic\Projects\calculator\order system\order system\obj\x86\Debug\order system.exe
+C:\Users\zico\Learning-Visual-Basic\Projects\calculator\order system\order system\obj\x86\Debug\order system.xml
+C:\Users\zico\Learning-Visual-Basic\Projects\calculator\order system\order system\obj\x86\Debug\order system.pdb
+C:\Users\zico\Learning-Visual-Basic\Projects\calculator\order system\order system\bin\Debug\order system.exe
+C:\Users\zico\Learning-Visual-Basic\Projects\calculator\order system\order system\bin\Debug\order system.pdb
+C:\Users\zico\Learning-Visual-Basic\Projects\calculator\order system\order system\bin\Debug\order system.xml
+C:\Users\zico\Learning-Visual-Basic\Projects\calculator\order system\order system\obj\x86\Debug\order_system.Form1.resources
+C:\Users\zico\Learning-Visual-Basic\Projects\calculator\order system\order system\obj\x86\Debug\order_system.Resources.resources
+C:\Users\zico\Learning-Visual-Basic\Projects\calculator\order system\order system\obj\x86\Debug\order system.vbproj.GenerateResource.Cache
+C:\Users\zico\Learning-Visual-Basic\Projects\calculator\order system\order system\obj\x86\Debug\order_system.Form2.resources

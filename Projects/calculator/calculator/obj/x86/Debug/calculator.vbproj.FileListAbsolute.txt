@@ -1,0 +1,22 @@
+C:\Users\zico\AppData\Local\Temporary Projects\calculator\bin\Debug\calculator.exe
+C:\Users\zico\AppData\Local\Temporary Projects\calculator\bin\Debug\calculator.pdb
+C:\Users\zico\AppData\Local\Temporary Projects\calculator\bin\Debug\calculator.xml
+C:\Users\zico\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.Resources.resources
+C:\Users\zico\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.vbproj.GenerateResource.Cache
+C:\Users\zico\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.exe
+C:\Users\zico\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.xml
+C:\Users\zico\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.pdb
+C:\Users\zico\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.addition.resources
+C:\Users\zico\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.login.resources
+C:\Users\zico\AppData\Local\Temporary Projects\calculator\obj\x86\Debug\calculator.index.resources
+C:\Users\zico\Learning-Visual-Basic\Projects\calculator\calculator\calculator\obj\x86\Debug\calculator.exe
+C:\Users\zico\Learning-Visual-Basic\Projects\calculator\calculator\calculator\obj\x86\Debug\calculator.xml
+C:\Users\zico\Learning-Visual-Basic\Projects\calculator\calculator\calculator\obj\x86\Debug\calculator.pdb
+C:\Users\zico\Learning-Visual-Basic\Projects\calculator\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\zico\Learning-Visual-Basic\Projects\calculator\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\zico\Learning-Visual-Basic\Projects\calculator\calculator\calculator\bin\Debug\calculator.xml
+C:\Users\zico\Learning-Visual-Basic\Projects\calculator\calculator\calculator\obj\x86\Debug\calculator.addition.resources
+C:\Users\zico\Learning-Visual-Basic\Projects\calculator\calculator\calculator\obj\x86\Debug\calculator.login.resources
+C:\Users\zico\Learning-Visual-Basic\Projects\calculator\calculator\calculator\obj\x86\Debug\calculator.index.resources
+C:\Users\zico\Learning-Visual-Basic\Projects\calculator\calculator\calculator\obj\x86\Debug\calculator.Resources.resources
+C:\Users\zico\Learning-Visual-Basic\Projects\calculator\calculator\calculator\obj\x86\Debug\calculator.vbproj.GenerateResource.Cache
