@@ -1,0 +1,12 @@
+C:\Users\zico\AppData\Local\Temporary Projects\balance loop\bin\Debug\balance loop.exe
+C:\Users\zico\AppData\Local\Temporary Projects\balance loop\bin\Debug\balance loop.pdb
+C:\Users\zico\AppData\Local\Temporary Projects\balance loop\bin\Debug\balance loop.xml
+C:\Users\zico\AppData\Local\Temporary Projects\balance loop\obj\x86\Debug\balance_loop.Form1.resources
+C:\Users\zico\AppData\Local\Temporary Projects\balance loop\obj\x86\Debug\balance_loop.Resources.resources
+C:\Users\zico\AppData\Local\Temporary Projects\balance loop\obj\x86\Debug\balance loop.vbproj.GenerateResource.Cache
+C:\Users\zico\AppData\Local\Temporary Projects\balance loop\obj\x86\Debug\balance loop.exe
+C:\Users\zico\AppData\Local\Temporary Projects\balance loop\obj\x86\Debug\balance loop.xml
+C:\Users\zico\AppData\Local\Temporary Projects\balance loop\obj\x86\Debug\balance loop.pdb
+C:\Users\zico\Learning-Visual-Basic\Projects\balance system\balance loop\obj\x86\Debug\balance loop.exe
+C:\Users\zico\Learning-Visual-Basic\Projects\balance system\balance loop\obj\x86\Debug\balance loop.xml
+C:\Users\zico\Learning-Visual-Basic\Projects\balance system\balance loop\obj\x86\Debug\balance loop.pdb

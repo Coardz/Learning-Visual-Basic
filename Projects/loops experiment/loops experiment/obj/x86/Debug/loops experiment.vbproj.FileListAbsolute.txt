@@ -1,0 +1,18 @@
+C:\Users\zico\AppData\Local\Temporary Projects\loops experiment\bin\Debug\loops experiment.exe
+C:\Users\zico\AppData\Local\Temporary Projects\loops experiment\bin\Debug\loops experiment.pdb
+C:\Users\zico\AppData\Local\Temporary Projects\loops experiment\bin\Debug\loops experiment.xml
+C:\Users\zico\AppData\Local\Temporary Projects\loops experiment\obj\x86\Debug\loops_experiment.Form1.resources
+C:\Users\zico\AppData\Local\Temporary Projects\loops experiment\obj\x86\Debug\loops_experiment.Resources.resources
+C:\Users\zico\AppData\Local\Temporary Projects\loops experiment\obj\x86\Debug\loops experiment.vbproj.GenerateResource.Cache
+C:\Users\zico\AppData\Local\Temporary Projects\loops experiment\obj\x86\Debug\loops experiment.exe
+C:\Users\zico\AppData\Local\Temporary Projects\loops experiment\obj\x86\Debug\loops experiment.xml
+C:\Users\zico\AppData\Local\Temporary Projects\loops experiment\obj\x86\Debug\loops experiment.pdb
+C:\Users\zico\Learning-Visual-Basic\Projects\loops experiment\loops experiment\obj\x86\Debug\loops experiment.exe
+C:\Users\zico\Learning-Visual-Basic\Projects\loops experiment\loops experiment\obj\x86\Debug\loops experiment.xml
+C:\Users\zico\Learning-Visual-Basic\Projects\loops experiment\loops experiment\obj\x86\Debug\loops experiment.pdb
+C:\Users\zico\Learning-Visual-Basic\Projects\loops experiment\loops experiment\bin\Debug\loops experiment.exe
+C:\Users\zico\Learning-Visual-Basic\Projects\loops experiment\loops experiment\bin\Debug\loops experiment.pdb
+C:\Users\zico\Learning-Visual-Basic\Projects\loops experiment\loops experiment\bin\Debug\loops experiment.xml
+C:\Users\zico\Learning-Visual-Basic\Projects\loops experiment\loops experiment\obj\x86\Debug\loops_experiment.Form1.resources
+C:\Users\zico\Learning-Visual-Basic\Projects\loops experiment\loops experiment\obj\x86\Debug\loops_experiment.Resources.resources
+C:\Users\zico\Learning-Visual-Basic\Projects\loops experiment\loops experiment\obj\x86\Debug\loops experiment.vbproj.GenerateResource.Cache

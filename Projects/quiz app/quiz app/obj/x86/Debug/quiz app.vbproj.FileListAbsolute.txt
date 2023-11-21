@@ -1,0 +1,9 @@
+C:\Users\zico\Learning-Visual-Basic\Projects\quiz app\quiz app\bin\Debug\quiz app.exe
+C:\Users\zico\Learning-Visual-Basic\Projects\quiz app\quiz app\bin\Debug\quiz app.pdb
+C:\Users\zico\Learning-Visual-Basic\Projects\quiz app\quiz app\bin\Debug\quiz app.xml
+C:\Users\zico\Learning-Visual-Basic\Projects\quiz app\quiz app\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\zico\Learning-Visual-Basic\Projects\quiz app\quiz app\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\zico\Learning-Visual-Basic\Projects\quiz app\quiz app\obj\x86\Debug\quiz app.vbproj.GenerateResource.Cache
+C:\Users\zico\Learning-Visual-Basic\Projects\quiz app\quiz app\obj\x86\Debug\quiz app.exe
+C:\Users\zico\Learning-Visual-Basic\Projects\quiz app\quiz app\obj\x86\Debug\quiz app.xml
+C:\Users\zico\Learning-Visual-Basic\Projects\quiz app\quiz app\obj\x86\Debug\quiz app.pdb

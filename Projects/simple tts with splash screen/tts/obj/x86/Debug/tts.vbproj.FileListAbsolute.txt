@@ -1,0 +1,15 @@
+C:\Users\zico\AppData\Local\Temporary Projects\tts\bin\Debug\tts.exe
+C:\Users\zico\AppData\Local\Temporary Projects\tts\bin\Debug\tts.pdb
+C:\Users\zico\AppData\Local\Temporary Projects\tts\bin\Debug\tts.xml
+C:\Users\zico\AppData\Local\Temporary Projects\tts\obj\x86\Debug\tts.Form1.resources
+C:\Users\zico\AppData\Local\Temporary Projects\tts\obj\x86\Debug\tts.Resources.resources
+C:\Users\zico\AppData\Local\Temporary Projects\tts\obj\x86\Debug\tts.vbproj.GenerateResource.Cache
+C:\Users\zico\AppData\Local\Temporary Projects\tts\obj\x86\Debug\tts.exe
+C:\Users\zico\AppData\Local\Temporary Projects\tts\obj\x86\Debug\tts.xml
+C:\Users\zico\AppData\Local\Temporary Projects\tts\obj\x86\Debug\tts.pdb
+C:\Users\zico\AppData\Local\Temporary Projects\tts\bin\Debug\tts.exe.config
+C:\Users\zico\AppData\Local\Temporary Projects\tts\obj\x86\Debug\tts.Form2.resources
+C:\Users\zico\Learning-Visual-Basic\Projects\simple tts with splash screen\tts\bin\Debug\tts.exe.config
+C:\Users\zico\Learning-Visual-Basic\Projects\simple tts with splash screen\tts\obj\x86\Debug\tts.exe
+C:\Users\zico\Learning-Visual-Basic\Projects\simple tts with splash screen\tts\obj\x86\Debug\tts.xml
+C:\Users\zico\Learning-Visual-Basic\Projects\simple tts with splash screen\tts\obj\x86\Debug\tts.pdb

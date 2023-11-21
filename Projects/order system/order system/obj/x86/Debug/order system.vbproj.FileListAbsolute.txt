@@ -17,3 +17,6 @@ C:\Users\zico\Learning-Visual-Basic\Projects\calculator\order system\order syste
 C:\Users\zico\Learning-Visual-Basic\Projects\calculator\order system\order system\obj\x86\Debug\order_system.Resources.resources
 C:\Users\zico\Learning-Visual-Basic\Projects\calculator\order system\order system\obj\x86\Debug\order system.vbproj.GenerateResource.Cache
 C:\Users\zico\Learning-Visual-Basic\Projects\calculator\order system\order system\obj\x86\Debug\order_system.Form2.resources
+C:\Users\zico\Learning-Visual-Basic\Projects\order system\order system\obj\x86\Debug\order system.exe
+C:\Users\zico\Learning-Visual-Basic\Projects\order system\order system\obj\x86\Debug\order system.xml
+C:\Users\zico\Learning-Visual-Basic\Projects\order system\order system\obj\x86\Debug\order system.pdb

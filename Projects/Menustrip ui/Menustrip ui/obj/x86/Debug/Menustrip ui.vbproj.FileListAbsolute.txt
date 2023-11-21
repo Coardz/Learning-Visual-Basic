@@ -1,0 +1,12 @@
+C:\Users\zico\AppData\Local\Temporary Projects\Menustrip ui\bin\Debug\Menustrip ui.exe
+C:\Users\zico\AppData\Local\Temporary Projects\Menustrip ui\bin\Debug\Menustrip ui.pdb
+C:\Users\zico\AppData\Local\Temporary Projects\Menustrip ui\bin\Debug\Menustrip ui.xml
+C:\Users\zico\AppData\Local\Temporary Projects\Menustrip ui\obj\x86\Debug\Menustrip_ui.Form1.resources
+C:\Users\zico\AppData\Local\Temporary Projects\Menustrip ui\obj\x86\Debug\Menustrip_ui.Resources.resources
+C:\Users\zico\AppData\Local\Temporary Projects\Menustrip ui\obj\x86\Debug\Menustrip ui.vbproj.GenerateResource.Cache
+C:\Users\zico\AppData\Local\Temporary Projects\Menustrip ui\obj\x86\Debug\Menustrip ui.exe
+C:\Users\zico\AppData\Local\Temporary Projects\Menustrip ui\obj\x86\Debug\Menustrip ui.xml
+C:\Users\zico\AppData\Local\Temporary Projects\Menustrip ui\obj\x86\Debug\Menustrip ui.pdb
+C:\Users\zico\Learning-Visual-Basic\Projects\Menustrip ui\Menustrip ui\obj\x86\Debug\Menustrip ui.exe
+C:\Users\zico\Learning-Visual-Basic\Projects\Menustrip ui\Menustrip ui\obj\x86\Debug\Menustrip ui.xml
+C:\Users\zico\Learning-Visual-Basic\Projects\Menustrip ui\Menustrip ui\obj\x86\Debug\Menustrip ui.pdb

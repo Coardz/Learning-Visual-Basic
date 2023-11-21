@@ -175,8 +175,10 @@ Partial Class login
         Me.Controls.Add(Label4)
         Me.Controls.Add(Label3)
         Me.Controls.Add(Me.Panel1)
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "login"
+        Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
         Me.Text = "Calculator"
         Me.Panel1.ResumeLayout(False)
         Me.Panel1.PerformLayout()
