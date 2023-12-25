@@ -31,3 +31,6 @@ C:\Users\zico\Learning-Visual-Basic\Projects\calculator\calculator\obj\x86\Debug
 C:\Users\zico\Learning-Visual-Basic\Projects\calculator\calculator\obj\x86\Debug\calculator.index.resources
 C:\Users\zico\Learning-Visual-Basic\Projects\calculator\calculator\obj\x86\Debug\calculator.Resources.resources
 C:\Users\zico\Learning-Visual-Basic\Projects\calculator\calculator\obj\x86\Debug\calculator.vbproj.GenerateResource.Cache
+C:\Users\coardz\Learning-Visual-Basic\Projects\calculator\calculator\obj\x86\Debug\calculator.exe
+C:\Users\coardz\Learning-Visual-Basic\Projects\calculator\calculator\obj\x86\Debug\calculator.xml
+C:\Users\coardz\Learning-Visual-Basic\Projects\calculator\calculator\obj\x86\Debug\calculator.pdb

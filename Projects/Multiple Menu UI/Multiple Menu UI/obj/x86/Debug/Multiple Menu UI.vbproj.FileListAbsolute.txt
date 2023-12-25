@@ -1,0 +1,12 @@
+C:\Users\coardz\AppData\Local\Temporary Projects\Multiple Menu UI\bin\Debug\Multiple Menu UI.exe
+C:\Users\coardz\AppData\Local\Temporary Projects\Multiple Menu UI\bin\Debug\Multiple Menu UI.pdb
+C:\Users\coardz\AppData\Local\Temporary Projects\Multiple Menu UI\bin\Debug\Multiple Menu UI.xml
+C:\Users\coardz\AppData\Local\Temporary Projects\Multiple Menu UI\obj\x86\Debug\Multiple_Menu_UI.Form1.resources
+C:\Users\coardz\AppData\Local\Temporary Projects\Multiple Menu UI\obj\x86\Debug\Multiple_Menu_UI.Resources.resources
+C:\Users\coardz\AppData\Local\Temporary Projects\Multiple Menu UI\obj\x86\Debug\Multiple Menu UI.vbproj.GenerateResource.Cache
+C:\Users\coardz\AppData\Local\Temporary Projects\Multiple Menu UI\obj\x86\Debug\Multiple Menu UI.exe
+C:\Users\coardz\AppData\Local\Temporary Projects\Multiple Menu UI\obj\x86\Debug\Multiple Menu UI.xml
+C:\Users\coardz\AppData\Local\Temporary Projects\Multiple Menu UI\obj\x86\Debug\Multiple Menu UI.pdb
+C:\Users\coardz\documents\visual studio 2010\Projects\Multiple Menu UI\Multiple Menu UI\obj\x86\Debug\Multiple Menu UI.exe
+C:\Users\coardz\documents\visual studio 2010\Projects\Multiple Menu UI\Multiple Menu UI\obj\x86\Debug\Multiple Menu UI.xml
+C:\Users\coardz\documents\visual studio 2010\Projects\Multiple Menu UI\Multiple Menu UI\obj\x86\Debug\Multiple Menu UI.pdb

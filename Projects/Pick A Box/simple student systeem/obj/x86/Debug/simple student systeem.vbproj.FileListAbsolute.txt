@@ -1,0 +1,12 @@
+C:\Users\coardz\AppData\Local\Temporary Projects\simple student systeem\bin\Debug\simple student systeem.exe
+C:\Users\coardz\AppData\Local\Temporary Projects\simple student systeem\bin\Debug\simple student systeem.pdb
+C:\Users\coardz\AppData\Local\Temporary Projects\simple student systeem\bin\Debug\simple student systeem.xml
+C:\Users\coardz\AppData\Local\Temporary Projects\simple student systeem\obj\x86\Debug\simple_student_systeem.Form1.resources
+C:\Users\coardz\AppData\Local\Temporary Projects\simple student systeem\obj\x86\Debug\simple_student_systeem.Resources.resources
+C:\Users\coardz\AppData\Local\Temporary Projects\simple student systeem\obj\x86\Debug\simple student systeem.vbproj.GenerateResource.Cache
+C:\Users\coardz\AppData\Local\Temporary Projects\simple student systeem\obj\x86\Debug\simple student systeem.exe
+C:\Users\coardz\AppData\Local\Temporary Projects\simple student systeem\obj\x86\Debug\simple student systeem.xml
+C:\Users\coardz\AppData\Local\Temporary Projects\simple student systeem\obj\x86\Debug\simple student systeem.pdb
+C:\Users\coardz\documents\visual studio 2010\Projects\Pick A Box\simple student systeem\obj\x86\Debug\simple student systeem.exe
+C:\Users\coardz\documents\visual studio 2010\Projects\Pick A Box\simple student systeem\obj\x86\Debug\simple student systeem.xml
+C:\Users\coardz\documents\visual studio 2010\Projects\Pick A Box\simple student systeem\obj\x86\Debug\simple student systeem.pdb

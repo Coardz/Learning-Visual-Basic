@@ -1,0 +1,24 @@
+C:\Users\coardz\AppData\Local\Temporary Projects\Accessing Computer Resources\bin\Debug\Accessing Computer Resources.exe
+C:\Users\coardz\AppData\Local\Temporary Projects\Accessing Computer Resources\bin\Debug\Accessing Computer Resources.pdb
+C:\Users\coardz\AppData\Local\Temporary Projects\Accessing Computer Resources\bin\Debug\Accessing Computer Resources.xml
+C:\Users\coardz\AppData\Local\Temporary Projects\Accessing Computer Resources\obj\x86\Debug\Accessing_Computer_Resources.Resources.resources
+C:\Users\coardz\AppData\Local\Temporary Projects\Accessing Computer Resources\obj\x86\Debug\Accessing Computer Resources.vbproj.GenerateResource.Cache
+C:\Users\coardz\AppData\Local\Temporary Projects\Accessing Computer Resources\obj\x86\Debug\Accessing Computer Resources.exe
+C:\Users\coardz\AppData\Local\Temporary Projects\Accessing Computer Resources\obj\x86\Debug\Accessing Computer Resources.xml
+C:\Users\coardz\AppData\Local\Temporary Projects\Accessing Computer Resources\obj\x86\Debug\Accessing Computer Resources.pdb
+C:\Users\coardz\AppData\Local\Temporary Projects\Accessing Computer Resources\obj\x86\Debug\Accessing_Computer_Resources.registryform.resources
+C:\Users\coardz\documents\visual studio 2010\Projects\Accessing Computer Resources\Accessing Computer Resources\obj\x86\Debug\Accessing_Computer_Resources.registryform.resources
+C:\Users\coardz\documents\visual studio 2010\Projects\Accessing Computer Resources\Accessing Computer Resources\obj\x86\Debug\Accessing_Computer_Resources.Resources.resources
+C:\Users\coardz\documents\visual studio 2010\Projects\Accessing Computer Resources\Accessing Computer Resources\obj\x86\Debug\Accessing Computer Resources.vbproj.GenerateResource.Cache
+C:\Users\coardz\documents\visual studio 2010\Projects\Accessing Computer Resources\Accessing Computer Resources\obj\x86\Debug\Accessing Computer Resources.exe.licenses
+C:\Users\coardz\documents\visual studio 2010\Projects\Accessing Computer Resources\Accessing Computer Resources\bin\Debug\Accessing Computer Resources.exe
+C:\Users\coardz\documents\visual studio 2010\Projects\Accessing Computer Resources\Accessing Computer Resources\bin\Debug\Accessing Computer Resources.pdb
+C:\Users\coardz\documents\visual studio 2010\Projects\Accessing Computer Resources\Accessing Computer Resources\bin\Debug\Accessing Computer Resources.xml
+C:\Users\coardz\documents\visual studio 2010\Projects\Accessing Computer Resources\Accessing Computer Resources\bin\Debug\Guna.UI.dll
+C:\Users\coardz\documents\visual studio 2010\Projects\Accessing Computer Resources\Accessing Computer Resources\obj\x86\Debug\Accessing Computer Resources.exe
+C:\Users\coardz\documents\visual studio 2010\Projects\Accessing Computer Resources\Accessing Computer Resources\obj\x86\Debug\Accessing Computer Resources.xml
+C:\Users\coardz\documents\visual studio 2010\Projects\Accessing Computer Resources\Accessing Computer Resources\obj\x86\Debug\Accessing Computer Resources.pdb
+C:\Users\coardz\documents\visual studio 2010\Projects\Accessing Computer Resources\Accessing Computer Resources\obj\x86\Debug\Accessing Computer Resources.vbprojResolveAssemblyReference.cache
+C:\Users\coardz\documents\visual studio 2010\Projects\Accessing Computer Resources\Accessing Computer Resources\obj\x86\Debug\Accessing_Computer_Resources.networkform.resources
+C:\Users\coardz\documents\visual studio 2010\Projects\Accessing Computer Resources\Accessing Computer Resources\obj\x86\Debug\Accessing_Computer_Resources.infoform.resources
+C:\Users\coardz\documents\visual studio 2010\Projects\Accessing Computer Resources\Accessing Computer Resources\obj\x86\Debug\Accessing_Computer_Resources.mouseform.resources
